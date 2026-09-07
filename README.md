@@ -106,4 +106,21 @@ This project was created in an isolated virtual machine environment for educatio
 
 Author- John Segun. A
 
+## Screenshots
+
+### Suricata Alerts in Wazuh
+![Suricata alerts in Wazuh](screenshots/IMG_9361.jpeg)
+
+### Active Wazuh Agent
+![Wazuh agent active](screenshots/IMG_9363.jpeg)
+
+### Wazuh Docker Stack
+![Wazuh containers running](screenshots/IMG_9367.jpeg)
+
+### Agent Installation + Nmap
+![Agent install and Nmap](screenshots/IMG_9366.jpeg)
+
+### Suricata Logs
+![Suricata logs](screenshots/IMG_9362.jpeg)
+
 Cybersecurity Portfolio Project | Home SOC Lab
